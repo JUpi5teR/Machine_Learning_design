@@ -1,0 +1,5 @@
+names:
+  0: Fovea
+path: /home/pacai2pd/project/task4-1/yolo_dataset_cache
+train: images/train
+val: images/val
